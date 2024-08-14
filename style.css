@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #F2F2CE; /* Light background color */
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    border-radius: 50px;
+    margin: 10px auto;
+    height: 100px;
+}
+
+header {
+    background-color: #F2F2CE;
+    padding: 20px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px; /* adjust the width as needed */
+    height: 50px; /* adjust the height as needed */
+    margin: 10px auto;
+    padding: 15px 30px;
+    background-color: #AF0000; /* Blue color for buttons */
+    color: #d1eb3f;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+}
+
+/* ... You can add more styling rules as needed */
